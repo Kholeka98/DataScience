@@ -7,7 +7,7 @@ Welcome to my data science portfolio, where I share a collection of my projects 
   - [Feature Engineering](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
   - [Model Evaluation](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
   - [SQL](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
-  - [Python/Spark](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
+  - [Python](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
 - [Education](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tianna-Portfolio/blob/main/README.md#certificates)
 - [Training and Hand on Labs](https://github.com/tiannaparristfolio/blob/main/README.md#education)
