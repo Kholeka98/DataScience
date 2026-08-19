@@ -2,12 +2,7 @@
 Welcome to my data science portfolio, where I share a collection of my projects and experiences in data science.
 ## Table of Contents
 - [Portfolio Projects](insert url)
-  - Exploratort Data Analysis
-    - [Medical Insurance](insert url)
-  - Feature Engineering
-    - [Car Insurance](insert url)
-  - Model Evaluation
-    - [Insert topic](insert url)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
-  - Power BI
+- [Education](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/tianna-Portfolio/blob/main/README.md#certificates)
+- Training and Hand on Labs
+- [Contact](https://github.com/tiannaparrisfolio/blob/main/README.md#contacts)
