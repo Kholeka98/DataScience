@@ -20,7 +20,7 @@ Jan 2023 - Dec 2023
 Jan 2020 - Dec 2022
 
 ## Certificates
-- [Microsoft Certified: Fabric Data Engineer Associate]
+- [Microsoft Certified: Fabric Data Engineer Associate](https://wwg/account/accomplishments/verify/62LME4DV8CUV) 
 - [Microsoft Certified: Azure Fundamentals](https://wwg/account/accomplishments/verify/62LME4DV8CUV) 
 - [Microsoft Certified: Azure Data Fundamentals](https://co/a16ecd3de61dd794199c452586cba90c)
 
