@@ -2,7 +2,7 @@
 Welcome to my data science portfolio, where I share a collection of my projects and experiences in data science.
 ## 📚 Table of Contents
 - [About](https://github.com/tiannaparristfolio/blob/main/README.md#education)
-- [Portfolio Projects](https://github.com/tiannaparristfolio/blob/main/README.md#education)
+- [Portfolio Projects](https://github.com/Kholeka98/Data-Science-Project-Profolio)
   - [Exploratory Data Analysis](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
   - [Feature Engineering](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
   - [Machine Learning Model Design and Evaluation](https://github.com/tiannaparristfolio/blob/main/README.md#education)  
