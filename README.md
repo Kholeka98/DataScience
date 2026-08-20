@@ -25,5 +25,5 @@ Jan 2020 - Dec 2022
 - [Microsoft Certified: Azure Data Fundamentals](https://co/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@KholekaSibiya](www.linkedin.com/in/kholekasibiya)
+- LinkedIn: [@KholekaSibiya](https://www.linkedin.com/in/kholekasibiya)
 - Email: kholeka.sibiya98@gmail.com
