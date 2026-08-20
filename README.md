@@ -30,5 +30,5 @@ Welcome to my data science portfolio, where I share a collection of my projects 
 - Microsoft Operationalize machine learning and generative AI solutions
 
 ## Contacts
-- LinkedIn: [@KholekaSibiya](https://www.linkedin.com/in/kholekasibiya)
+- LinkedIn: [@kholekasibiya](https://www.linkedin.com/in/kholekasibiya)
 - Email: s.kholeka98@gmail.com
