@@ -14,10 +14,8 @@ Welcome to my data science portfolio, where I share a collection of my projects 
 - [Contact](https://github.com/tiannaparrisfolio/blob/main/README.md#contacts)
 
 ## Education
-- University of Pretoria, Bachelor of Science Honours Mathematics
-  Jan 2023 - Dec 2023
-- University of Pretoria, Bachelor of Science Mathematics
-  Jan 2020 - Dec 2022
+- University of Pretoria, Bachelor of Science Honours Mathematics, Jan 2023 - Dec 2023
+- University of Pretoria, Bachelor of Science Mathematics, Jan 2020 - Dec 2022
 
 ## Certificates
 - [Microsoft Certified: Fabric Data Engineer Associate](https://wwg/account/accomplishments/verify/62LME4DV8CUV) 
