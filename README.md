@@ -2,7 +2,7 @@
 Welcome to my data science portfolio, where I share a collection of my projects and experiences in data science.
 ## 📚 Table of Contents
 - [Portfolio Projects](https://github.com/Kholeka98/Data-Science-Project-Profolio)
-  - [Data Cleaning][https://github.com/Kholeka98/Data-Science-Project-Profolio/tree/main/Data%20Cleaning)
+  - [Data Cleaning](https://github.com/Kholeka98/Data-Science-Project-Profolio/tree/main/Data%20Cleaning)
   - [Exploratory Data Analysis](https://github.com/Kholeka98/Data-Science-Project-Profolio/tree/main/Exploratory%20Data%20Analysis)  
   - [Feature Engineering](https://github.com/Kholeka98/Data-Science-Project-Profolio/tree/main/Feature%20Engineering)  
   - [Machine Learning Model Design and Evaluation](https://github.com/Kholeka98/Data-Science-Project-Profolio/tree/main/Machine%20Learning%20Model%20Design%20and%20Evaluation)  
