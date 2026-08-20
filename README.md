@@ -20,9 +20,14 @@ Jan 2023 - Dec 2023
 Jan 2020 - Dec 2022
 
 ## Certificates
-- [Microsoft Certified: Fabric Data Engineer Associate](https://www.coursera.org/accounomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Microsoft Certified: Azure Fundamentals](https://wwg/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Microsoft Certified: Azure Data Fundamentals](https://co/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Microsoft Certified: Fabric Data Engineer Associate]
+- [Microsoft Certified: Azure Fundamentals](https://wwg/account/accomplishments/verify/62LME4DV8CUV) 
+- [Microsoft Certified: Azure Data Fundamentals](https://co/a16ecd3de61dd794199c452586cba90c)
+
+## Training & Hands-on Labs
+- Microsoft Azure AI Fundamentals
+- Microsoft Build machine learning solutions using Azure Databricks
+- Microsoft Operationalize machine learning and generative AI solutions
 
 ## Contacts
 - LinkedIn: [@KholekaSibiya](https://www.linkedin.com/in/kholekasibiya)
