@@ -26,4 +26,4 @@ Jan 2020 - Dec 2022
 
 ## Contacts
 - LinkedIn: [@KholekaSibiya](https://www.linkedin.com/in/kholekasibiya)
-- Email: kholeka.sibiya98@gmail.com
+- Email: s.kholeka98@gmail.com
